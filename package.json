@@ -1,0 +1,12 @@
+{
+  "name": "create-if-else-program",
+  "version": "1.0.0",
+  "description": "These are the js files that are used to create large codes of check even odd numbers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
