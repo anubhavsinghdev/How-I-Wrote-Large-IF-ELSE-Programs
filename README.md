@@ -14,4 +14,4 @@ Checkout what I wrote that created these many lines of codes by itself.
 
 ## Author
 
-- [@katherinepeterson](https://www.github.com/singhanubhavme)
+- [@singhanubhavme](https://www.github.com/singhanubhavme)
